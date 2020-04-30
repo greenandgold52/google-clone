@@ -1,0 +1,1 @@
+This is a project from the odin project to teach teh basics of html css and git
